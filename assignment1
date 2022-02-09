@@ -1,0 +1,16 @@
+#biggest of two numbers
+a=(int(input('enter value of a:'))
+b=(int(input('enter value of b:'))
+if(a>b):
+ print('a is the bigger number')
+else:
+ print('b is the bigger number')   
+                                                     (OR)
+                                                     
+                                                     
+a=int(32)
+b=int(42)
+if(a>b):
+ print('a is the biggest number')
+else:
+ print('b is the biggest number')
